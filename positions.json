@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Web Developer"
+    },
+    {
+        "id": 2,
+        "name": "Designer"
+    },
+    {
+        "id": 3,
+        "name": "Admin Staff"
+    },
+    {
+        "id": 4,
+        "name": "Software Engineer"
+    },
+    {
+        "id": 5,
+        "name": "Front-end Engineer"
+    },
+    {
+        "id": 6,
+        "name": "BPO Staff"
+    },
+    {
+        "id": 7,
+        "name": "Game Developer"
+    },
+    {
+        "id": 8,
+        "name": "Company Driver"
+    }
+]
