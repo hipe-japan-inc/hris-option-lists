@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "None",
+        "hex_code": "#B33771"
+    },
+    {
+        "id": 2,
+        "name": "Mark",
+        "hex_code": "#1abc9c"
+    },
+    {
+        "id": 3,
+        "name": "Bukken-Oh",
+        "hex_code": "#2ecc71"
+    },
+    {
+        "id": 4,
+        "name": "Shin-san",
+        "hex_code": "#e67e22"
+    },
+    {
+        "id": 5,
+        "name": "Lacicu",
+        "hex_code": "#34495e"
+    },
+    {
+        "id": 6,
+        "name": "Walklog",
+        "hex_code": "#192a56"
+    },
+    {
+        "id": 7,
+        "name": "Madori",
+        "hex_code": "#006266"
+    },
+    {
+        "id": 8,
+        "name": "Oyster",
+        "hex_code": "#9c88ff"
+    },
+    {
+        "id": 9,
+        "name": "Umed",
+        "hex_code": "#4a69bd"
+    },
+    {
+        "id": 10,
+        "name": "Ruby",
+        "hex_code": "#c23616"
+    },
+    {
+        "id": 11,
+        "name": "Teconet",
+        "hex_code": "#B33771"
+    },
+    {
+        "id": 12,
+        "name": "HR/Admin",
+        "hex_code": "#D48C95"
+    }
+]
