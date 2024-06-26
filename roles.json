@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "name": "super-admin"
+        "name": "Super Admin"
     },
     {
         "id": 2,
-        "name": "admin"
+        "name": "Admin"
     },
     {
         "id": 3,
-        "name": "manager"
+        "name": "Manager"
     },
     {
         "id": 4,
-        "name": "team-lead"
+        "name": "Team Lead"
     },
     {
         "id": 5,
-        "name": "user"
+        "name": "User"
     }
 ]
